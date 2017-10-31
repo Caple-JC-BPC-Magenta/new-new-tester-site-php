@@ -5,8 +5,9 @@
  <body> 
  <?php 
  $fName = "Joe"; 
- $sName = "Caple"; 
- $fullname = $fName . " " . $sName; 
+ $sName = "Caple";
+ $mName = "Charlie";
+ $fullname = $fName . " " . $sName; . " " .$mName;  
   
  echo $fullname; 
   
@@ -15,7 +16,7 @@
  } 
  elseif 
  ($fullname == "Patrick Douel") { 
- echo "Yo me is computer nard i wan to liek men"; 
+ echo "Yo i am computer nerd i want to go fast man"; 
  } 
  else 
  { 
