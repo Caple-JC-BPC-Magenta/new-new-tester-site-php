@@ -7,7 +7,7 @@
  $fName = "Joe"; 
  $sName = "Caple";
  $mName = "Charlie";
- $fullname = $fName . " " . $sName; . " " .$mName;  
+ $fullname = $fName . " " . $sName; . " " . $mName;  
   
  echo $fullname; 
   
